@@ -1,0 +1,3 @@
+x ='MegaMind.jpeg'
+img = open(x)
+img.show(x) 
