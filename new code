@@ -1,0 +1,11 @@
+import os.path
+
+path = './MegaMind.jpeg'
+
+check_file = os.path.isfile('./MegaMind.jpeg')
+
+print(check_file)
+
+# output
+
+# True
